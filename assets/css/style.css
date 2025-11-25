@@ -11568,7 +11568,7 @@ header.header-full-width.header--sticky.sticky {
   padding: 15px 0;
 }
 .tmp-popup-mobile-menu .header-top .logo a img {
-  max-height: 45px;
+  max-height: 95px;
 }
 .tmp-popup-mobile-menu .header-top .close-menu .close-button {
   background: var(--color-secondary);
@@ -14838,6 +14838,7 @@ Section Head
 }
 .section-head .section-sub-title span.subtitle {
   font-family: var(--font-secondary);
+  color: #F26636 !important;
 }
 .section-head .title {
   color: var(--color-heading);
@@ -17646,7 +17647,7 @@ section.clients-testimonial-area {
   }
 }
 .banner-one-main-wrapper .inner .title span {
-  color: var(--color-primary);
+  color: #F26536;
 }
 .banner-one-main-wrapper .inner .disc {
   color: var(--color-gray);
